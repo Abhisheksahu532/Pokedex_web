@@ -2,7 +2,10 @@
     display:flex;
     flex-direction: column;
     align-items: center;
-}
+    background-image: url(https://assets.pokemon.com//assets/cms2/img/misc/virtual-backgrounds/masters/forest.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+ }
 
 #pokedex-heading{
     letter-spacing: 1rem;

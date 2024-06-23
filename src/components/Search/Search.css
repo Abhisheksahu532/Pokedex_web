@@ -4,6 +4,7 @@
 
 #pokemon-name-search{
     margin-top:2rem;
-    width:600px;
+    width:400px;
     padding: 1.5rem;
+    border-radius: 20px 50px; 
 }

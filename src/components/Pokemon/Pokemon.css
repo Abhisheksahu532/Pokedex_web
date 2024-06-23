@@ -20,5 +20,8 @@
 }
 
 .pokemon:hover{
-    background-color: rgb(194, 251, 251);
+    background-color: rgba(185, 232, 187, 0.4);
+    border-radius: 7%;
+
+   
 }
